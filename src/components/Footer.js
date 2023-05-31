@@ -37,10 +37,10 @@ const Footer = () => {
             <div className="col-4">
               <h4 className="text-white mb-4">Contact Us</h4>
               <div>
-                {/* <address className="text-white fs-6">
-                  Hno : 277 Near Vill chopal, <br /> Sonipat, Haryana <br />
-                  PinCode: 131103
-                </address> */}
+                <address className="text-white fs-6">
+                  Location : Mansoura <br /> Cairo , Egypt	 <br />
+                  PinCode: 387130
+                </address>
                 <a
                   href="tel:+20 1004270550
                   "
@@ -62,9 +62,6 @@ const Footer = () => {
                   </a>
                   <a className="text-white" href="#">
                     <BsGithub className="fs-4" />
-                  </a>
-                  <a className="text-white" href="#">
-                    <BsYoutube className="fs-4" />
                   </a>
                 </div>
               </div>
